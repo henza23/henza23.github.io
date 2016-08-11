@@ -1,2 +1,2 @@
 # henza23.github.io
-My resume website
+Hello world! my name is Handrix Gwaze, Welcome to my resume website.
